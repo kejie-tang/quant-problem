@@ -20,7 +20,8 @@ export default defineConfig({
           text: '题库',
           items: [
             { text: '题库索引', link: '/problems/' },
-            { text: '微积分样例', link: '/problems/calculus/derivative-example' }
+            { text: '微积分样例', link: '/problems/calculus/derivative-example' },
+            { text: '杠杆策略的爆仓时间', link: '/problems/quant/leverage-ruin-time' }
           ]
         }
       ]

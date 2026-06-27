@@ -4,6 +4,10 @@
 
 - [导数样例](./calculus/derivative-example.md)
 
+## 量化风险
+
+- [杠杆策略的爆仓时间](./quant/leverage-ruin-time.md)
+
 ## 推荐记录方式
 
 每道题建议包含：
