@@ -4,6 +4,10 @@
 
 - [杠杆策略的爆仓时间](./quant/leverage-ruin-time.md)
 
+## 概率论
+
+- [随机游走越过高位时的未访问点比例](./probability/random-walk-unvisited-ratio.md)
+
 ## 推荐记录方式
 
 每道题建议包含：

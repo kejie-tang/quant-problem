@@ -20,7 +20,8 @@ export default defineConfig({
           text: '题库',
           items: [
             { text: '题库索引', link: '/problems/' },
-            { text: '杠杆策略的爆仓时间', link: '/problems/quant/leverage-ruin-time' }
+            { text: '杠杆策略的爆仓时间', link: '/problems/quant/leverage-ruin-time' },
+            { text: '随机游走越过高位时的未访问点比例', link: '/problems/probability/random-walk-unvisited-ratio' }
           ]
         }
       ]
